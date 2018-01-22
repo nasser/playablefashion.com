@@ -34,4 +34,4 @@ goog.addDependency("../reagent/dom.js", ['reagent.dom'], ['reagent.impl.util', '
 goog.addDependency("../reagent/core.js", ['reagent.core'], ['reagent.impl.util', 'reagent.dom.server', 'reagent.interop', 'reagent.ratom', 'cljs.core', 'reagent.impl.template', 'reagent.impl.batching', 'reagent.impl.component', 'reagent.debug', 'reagent.dom']);
 goog.addDependency("../sponge/emulator.js", ['sponge.emulator'], ['cljs.core', 'goog.string.StringBuffer', 'clojure.string', 'cljs.reader']);
 goog.addDependency("../sponge/core.js", ['sponge.core'], ['sponge.examples', 'reagent.core', 'cljs.core', 'sponge.emulator', 'clojure.string']);
-goog.addDependency("../702195A.js", ['figwheel.connect.dev'], ['cljs.core', 'sponge.core', 'figwheel.client', 'figwheel.client.utils']);
+goog.addDependency("../2096D05.js", ['figwheel.connect.dev'], ['cljs.core', 'sponge.core', 'figwheel.client', 'figwheel.client.utils']);
